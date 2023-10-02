@@ -1,3 +1,10 @@
+## Demo Video
+
+
+https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/a859f73b-5f54-4053-abe2-d800413a2a19
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
