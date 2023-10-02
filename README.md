@@ -4,6 +4,21 @@
 https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/a859f73b-5f54-4053-abe2-d800413a2a19
 
 
+## Screenshorts 
+
+# 1. DynamicIslandExpandedRegion: Ride On going status
+![IMG_8326](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/dd4f5d85-2a05-4a21-8e0b-38aef360b6e0)
+
+# 2. DynamicIslandExpandedRegion: Ride completed status
+![IMG_8330](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/f702cbe1-cf66-4518-bc12-4965d9ed8400)
+
+# 3. compactLeading & compactTrailing: Ride status
+![IMG_8327](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/aa445fd7-5309-44de-8198-69bc948159f1)
+
+
+# 4. Notification: Ride status
+![IMG_8328](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/c109cf95-44f3-4a47-bc94-8635f33c7bef)
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
