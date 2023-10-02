@@ -7,17 +7,18 @@ https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/a859f73b
 ## Screenshorts 
 
 # 1. DynamicIslandExpandedRegion: Ride On going status
-![IMG_8326](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/dd4f5d85-2a05-4a21-8e0b-38aef360b6e0)
+![IMG_8326](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/09076bbf-b26b-4642-8af3-1f48d540a05b)
+
 
 # 2. DynamicIslandExpandedRegion: Ride completed status
-![IMG_8330](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/f702cbe1-cf66-4518-bc12-4965d9ed8400)
+![IMG_8330](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/0d3d934a-ff98-4c2f-8434-b5fdf4c69395)
+
 
 # 3. compactLeading & compactTrailing: Ride status
-![IMG_8327](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/aa445fd7-5309-44de-8198-69bc948159f1)
-
+![IMG_8327](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/16d30239-7061-4bf7-bf10-3e4d51f1b981)
 
 # 4. Notification: Ride status
-![IMG_8328](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/c109cf95-44f3-4a47-bc94-8635f33c7bef)
+![IMG_8328](https://github.com/gulsher7/react_native_dynamic_island/assets/56266123/89a060ef-7d34-4b63-a8bf-8657e7057066)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
